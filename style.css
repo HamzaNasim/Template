@@ -348,7 +348,7 @@ padding-top: 60px;
 
 	color: white;
 	margin-top: 60px;
-	margin-left: 15px;
+	margin-left: 7%;
 	margin-bottom: 30px;
 	text-align: center;
 	font-family: cursive;
@@ -372,7 +372,7 @@ padding-top: 60px;
 
 	padding-top: 40px;
 	width: 80%;
-	padding-left: 25px;
+
 	text-align: center;
 	font-size: 110%;
 	font-family: cursive;
@@ -388,7 +388,7 @@ padding-top: 60px;
 	text-decoration: none;
 	color: white;
 	padding: 8px;
-	margin-left: 35%;
+	margin-left: 40%;
 	font-family: Courier New, Courier, monospace;
     text-transform: uppercase;
 	font-size: 90%;
@@ -415,7 +415,7 @@ padding-top: 60px;
 	text-decoration: none;
 	color: white;
 	padding: 8px;
-	margin-left: 25%;
+	margin-left: 30%;
 	font-family: Courier New, Courier, monospace;
     text-transform: uppercase;
 	font-size: 90%;
@@ -427,7 +427,7 @@ padding-top: 60px;
  
     padding-top: 80px;
 	width: 80%;
-	padding-left: 20px;
+	padding-left: 15%;
 	font-family: cursive;
 	color: white;
 
@@ -479,7 +479,7 @@ padding-top: 60px;
 
 	padding-top: 40px;
 	width: 80%;
-	padding-left: 30px;
+	padding-left: 10%;
 	text-align: center;
 	font-size: 110%;
 	font-family: cursive;
@@ -496,7 +496,7 @@ padding-top: 60px;
 	text-decoration: none;
 	color: white;
 	padding: 8px;
-	margin-left: 180px;
+	margin-left: 40%;
 	font-family: Courier New, Courier, monospace;
     text-transform: uppercase;
 	font-size: 90%;
@@ -539,9 +539,26 @@ padding-top: 60px;
 
 }
 
-.row7 .right i {
+.row7 .right i{
 
-   font-size: 150%;
+ 
    color: #d13328;
+   padding-bottom: 3%;
+   padding-left: 8%;
+   width: 100%;
+   font-size: 110%;
+   
+  
+}
 
+.row7 a {
+    
+   text-decoration: none;
+   color: #d13328;
+   text-decoration: underline;
+}
+
+.row7 .right {
+    
+    padding-top: 6%;
 }
